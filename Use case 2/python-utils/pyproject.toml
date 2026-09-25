@@ -1,0 +1,14 @@
+[project]
+name = "cli-calc"
+version = "0.1.0"
+description = "A simple CLI calculator"
+
+[project.scripts]
+cli-calc = "cli_calc:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["cli_calc", "utils"]

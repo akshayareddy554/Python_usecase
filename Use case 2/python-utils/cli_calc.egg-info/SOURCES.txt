@@ -1,0 +1,8 @@
+cli_calc.py
+pyproject.toml
+utils.py
+cli_calc.egg-info/PKG-INFO
+cli_calc.egg-info/SOURCES.txt
+cli_calc.egg-info/dependency_links.txt
+cli_calc.egg-info/entry_points.txt
+cli_calc.egg-info/top_level.txt
